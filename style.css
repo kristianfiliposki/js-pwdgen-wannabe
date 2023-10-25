@@ -1,0 +1,11 @@
+
+
+section{
+    width: 80vh;
+    height: 80vh;
+    background-color: aqua;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
